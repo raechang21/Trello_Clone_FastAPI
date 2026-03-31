@@ -1,6 +1,6 @@
 # Trello Clone - FastAPI Implementation
 
-This project is a functional Trello clone derived from the `112-1-unit1-trello-clone` architecture. The backend has been re-engineered from the original Node.js/Express implementation to a high-performance **FastAPI** framework, utilizing asynchronous MongoDB drivers for improved throughput.
+This project is a functional Trello clone derived from the `ntuee-web-programming/112-1-unit1-trello-clone` architecture. The backend has been re-engineered from the original Node.js/Express implementation to a high-performance **FastAPI** framework, utilizing asynchronous MongoDB drivers for improved throughput.
 
 ## Run the App
 
